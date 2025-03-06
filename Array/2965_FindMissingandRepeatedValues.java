@@ -11,7 +11,7 @@ class Solution {
             }
         }
         List<Integer> list=new ArrayList<>(dup);
-       for(int i=1;i< )
+       for(int i=1;i<set.length)
         
     }
 }
